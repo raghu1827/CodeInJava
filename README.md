@@ -46,13 +46,6 @@ I solve coding problems categorized by difficulty and topic:
 - **String Problems**: Handling string operations and manipulation.
 - **Intermediate & Advanced Problems**: Algorithmic challenges, optimization, and complex problem-solving.
 
-## 🏅 Progress Badges
-
-![Java Basics](https://img.shields.io/badge/Java%20Basics-Completed-green)
-![OOP Concepts](https://img.shields.io/badge/OOP%20Concepts-In%20Progress-yellow)
-![DSA Progress](https://img.shields.io/badge/DSA-50%25-orange)
-![Projects](https://img.shields.io/badge/Projects-Started-blue)
-
 ## 🔥 How to Run the Code
 
 1. Clone this repository:
