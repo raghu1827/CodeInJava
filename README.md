@@ -1,4 +1,3 @@
-
 # Java Coding Journey
 
 Welcome to my **Java Coding Journey**! This repository showcases my progress as I learn Java and solve coding problems from basic to advanced levels. I track my problem-solving skills, logic development, and Java knowledge through this journey.
@@ -10,41 +9,20 @@ Welcome to my **Java Coding Journey**! This repository showcases my progress as 
 - **Version Control**: Git/GitHub
 - **Tools**: JDK (Java Development Kit)
 
-## 🚀 Learning Path
+## 🧩 Problem-Solving Categories
 
-### 1. **Java Basics**
-   - **Syntax**, **Variables**, **Data Types**, **Operators**
-   - **Loops** (for, while), **Conditionals** (if-else, switch)
-   - **Functions**, **Arrays**, **Strings**
+I focus on solving Java problems in the following areas:
 
-### 2. **Object-Oriented Programming (OOP)**
-   - **Classes & Objects**, **Inheritance**, **Polymorphism**
-   - **Abstraction**, **Encapsulation**
+- **Pattern Problems**: Generating and manipulating patterns.
+- **Basic Problems**: Fundamental programming challenges.
+- **Number Problems**: Mathematical computations and logic-building.
+- **Array Problems**: Working with arrays, sorting, searching, and manipulation.
+- **String Problems**: String operations, transformations, and optimizations.
+- **Recursion Problems**: Solving problems using recursive approaches.
+- **OOP Problems**: Object-oriented design, classes, inheritance, and polymorphism.
+- **Advanced Java Problems**: Multithreading, streams, exception handling, and more.
 
-### 3. **Data Structures & Algorithms (DSA)**
-   - **Arrays**, **Strings**, **Linked Lists**, **Stacks**, **Queues**
-   - **Sorting**, **Searching Algorithms**, **Recursion**
-   - **Dynamic Programming**, **Greedy Algorithms**, **Graphs**
-
-### 4. **Advanced Java**
-   - **Multithreading**, **Streams**, **Lambda Expressions**
-   - **File Handling**, **Exception Handling**
-
-### 5. **Projects**
-   - Building practical applications like:
-     - **Mini Projects**: Console applications to strengthen logic.
-     - **Real-World Projects**: Small-scale systems, backend APIs.
-
-## 🧩 Problem Solving Categories
-
-I solve coding problems categorized by difficulty and topic:
-
-- **Basic Problems**: Introductory problems for syntax and logic.
-- **Pattern Problems**: Pattern generation and manipulation.
-- **Number Problems**: Solving mathematical challenges.
-- **Array Problems**: Manipulating arrays with various algorithms.
-- **String Problems**: Handling string operations and manipulation.
-- **Intermediate & Advanced Problems**: Algorithmic challenges, optimization, and complex problem-solving.
+This structured approach helps me strengthen problem-solving skills while mastering Java concepts through hands-on coding.
 
 ## 🔥 How to Run the Code
 
@@ -57,10 +35,14 @@ I solve coding problems categorized by difficulty and topic:
 
 ## 📅 Timeline & Milestones
 
-- [ ] **Java Basics**: Completed
-- [ ] **OOP Concepts**: Learning in Progress
-- [ ] **DSA Problems**: Ongoing
-- [ ] **Projects**: In Progress
+- [ ] **Pattern Problems**: In Progress
+- [ ] **Basic Problems**: In Progress
+- [ ] **Number Problems**: In Progress
+- [ ] **Array Problems**: In Progress
+- [ ] **String Problems**: In Progress
+- [ ] **Recursion Problems**: In Progress
+- [ ] **OOP Problems**: In Progress
+- [ ] **Advanced Java Problems**: In Progress
 
 ## 📚 Contributions
 
